@@ -19,8 +19,7 @@
         "symfony/framework-bundle": ">=2.0"
     },
     "autoload": {
-        "psr-0": { "alessandrolandim\\PayPalBridgeBundle": "" }
+        "psr-0": { "KMJ\\PayPalBridgeBundle": "" }
     },
-    "minimum-stability": "dev",
-    "target-dir": "alessandrolandim/PayPalBridgeBundle"
+    "minimum-stability": "dev"
 }
